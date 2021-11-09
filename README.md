@@ -1,5 +1,5 @@
 ## Projeto Front-End
-Desafio da venturelabs de Frontend. O objetivo era criar duas páginas uma de cadastro de clientes e a outra com as informações dos clientes, utilizando HTML, CSS e React.js.
+Desafio de Frontend. Com o objetivo de criar duas páginas uma de cadastro de produtos e a outra de vendas, utilizando HTML, CSS e React.js.
 
 #### Status: 💫 Finalizado
 
@@ -24,5 +24,5 @@ Desafio da venturelabs de Frontend. O objetivo era criar duas páginas uma de ca
 - Iniciar.. Yarn Start(npm start)
 - Ao cadastrar o produto usando uma url de alguma foto jpg, entre na página de vendas e atualize a tela porque os dados não estão indo automáticamente.
 
-#### Link do Deploy (Surge)
+#### Link do Deploy (Heroku)
 - https://case-ecommerce-heroku.herokuapp.com/
