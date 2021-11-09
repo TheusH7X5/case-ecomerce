@@ -22,6 +22,7 @@ Desafio da venturelabs de Frontend. O objetivo era criar duas páginas uma de ca
 - Git clone
 - Instalar.. Yarn install(ou npm install)
 - Iniciar.. Yarn Start(npm start)
+- Ao cadastrar o produto usando uma url de alguma foto jpg, entre na página de vendas e atualize a tela porque os dados não estão indo automáticamente.
 
 #### Link do Deploy (Surge)
 - https://case-ecommerce-heroku.herokuapp.com/
